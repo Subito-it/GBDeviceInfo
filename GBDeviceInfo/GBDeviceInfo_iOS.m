@@ -202,6 +202,15 @@
                 // 7 Plus
                 @[@9, @2]: @[@(GBDeviceModeliPhone7Plus), @"iPhone 7 Plus", @(GBDeviceDisplay5p5Inch), @401],
                 @[@9, @4]: @[@(GBDeviceModeliPhone7Plus), @"iPhone 7 Plus", @(GBDeviceDisplay5p5Inch), @401],
+                
+                // 8
+                @[@10, @4]: @[@(GBDeviceModeliPhone7), @"iPhone 8", @(GBDeviceDisplay4p7Inch), @326],
+                
+                // 8 Plus
+                @[@10, @5]: @[@(GBDeviceModeliPhone7Plus), @"iPhone 8 Plus", @(GBDeviceDisplay5p5Inch), @401],
+
+                // X
+                @[@10, @3]: @[@(GBDeviceModeliPhone7Plus), @"iPhone X", @(GBDeviceDisplay5p8Inch), @458],
             },
             @"iPad": @{
                 // 1
